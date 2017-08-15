@@ -1,0 +1,19 @@
+* {
+    position: relative;
+}
+
+
+.navbar button {
+    top: 150px;
+    border-radius: 4px;
+    width: 100px;
+}
+
+.logo, .searchBar, .buttons button {
+    float: left;
+}
+
+.results {
+    position: absolute;
+    top: 200px;
+}
